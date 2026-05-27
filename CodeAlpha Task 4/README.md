@@ -23,3 +23,9 @@ This task serves as the final mini-project for the CodeAlpha UI/UX Design intern
 * 📸 **Screenshots & Video:** Please check the files in this folder for video demonstrations recording the clickable prototype in action.
 
 ---
+### 🚀 About the Internship
+* **Company:** CodeAlpha
+* **Domain:** UI/UX Design
+* **Intern:** Taksh Patel
+* **Duration:**  20thMay 2026 - 20thJune 2026
+---  
