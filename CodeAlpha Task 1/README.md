@@ -4,14 +4,21 @@ Welcome to my repository for the CodeAlpha UI/UX Design Internship! This reposit
 
 ---
 
-## 📌 Task 1: Wireframing and Low-Fidelity Design of "Easy Cart"
+# ✏️ Task 1: Wireframing & Low-Fidelity Design
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Internship-CodeAlpha-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Role-UI%2FUX_Designer-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Tool-Figma-orange?style=for-the-badge">
+</div>
+
+---
 
 ### 📖 Project Overview
 The objective of this task was to design a **Low-Fidelity Wireframe** for an e-commerce platform named **Easy Cart** (Website/App). The focus of a low-fidelity wireframe is to establish the core structure, user flow, information architecture, and layout of the application without getting distracted by visual design elements like colors, typography, or exact imagery. 
 
 **Easy Cart** aims to provide a seamless, intuitive, and frictionless shopping experience for users, focusing on clean navigation and a straightforward checkout pipeline.
 
----
 
 ## 🔗 Figma Design Links
 
@@ -19,7 +26,7 @@ You can view the live design workspace, interactive layouts, and structure direc
 
 * 🌐 **Figma Design File:** [Easy Cart - Low & High Fidelity Wireframes](https://www.figma.com/design/YN4r6WkdFncLs4mNWR4XxZ/low-and-High-Fidelity-Wireframe-of-Shopping-Website?node-id=2015-6&t=Z11JhjRjUzugJWDX-1)
 * 📸 Screenshots & Video: Please check the files in this folder for high-resolution static screenshots and video walkthroughs of the wireframe layouts
----
+
 
 ## 🎯 Objectives Achieved
 
