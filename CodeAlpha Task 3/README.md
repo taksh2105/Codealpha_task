@@ -24,3 +24,11 @@ The objective of Task 3 was to move beyond UI aesthetics and conduct a deep-dive
 
 * 📂 **Case Study Document:** Please review the attached **`CodeAlpha Task 3.pdf`** file included in this directory to read the comprehensive, 10-page structural research and design report.
 * 📸 **Mockup Visualizations:** High-fidelity mockup images supporting the proposed redesigns are included within the report and as separate image files in this folder..
+
+---  
+### 🚀 About the Internship
+* **Company:** CodeAlpha
+* **Domain:** UI/UX Design
+* **Intern:** Taksh Patel
+* **Duration:**  20thMay 2026 - 20thJune 2026
+---  
