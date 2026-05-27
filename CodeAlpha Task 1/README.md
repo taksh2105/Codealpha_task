@@ -4,7 +4,7 @@ Welcome to my repository for the CodeAlpha UI/UX Design Internship! This reposit
 
 ---
 
-## 📌 Task 1: Low-Fidelity Wireframe of "Easy Cart"
+## 📌 Task 1: Wireframing and Low-Fidelity Design of "Easy Cart"
 
 ### 📖 Project Overview
 The objective of this task was to design a **Low-Fidelity Wireframe** for an e-commerce platform named **Easy Cart** (Website/App). The focus of a low-fidelity wireframe is to establish the core structure, user flow, information architecture, and layout of the application without getting distracted by visual design elements like colors, typography, or exact imagery. 
