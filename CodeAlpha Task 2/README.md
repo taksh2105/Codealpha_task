@@ -1,4 +1,13 @@
-🎨 Task 2: High-Fidelity UI Design
+# 🎨 Task 2: High-Fidelity UI Design
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Internship-CodeAlpha-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Role-UI%2FUX_Designer-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Tool-Figma-orange?style=for-the-badge">
+</div>
+
+---
+
 ### 📌 Project Overview
 Following the structural foundation laid in Task 1, the objective of Task 2 was to convert the low-fidelity wireframes into polished, high-fidelity UI designs for the **Campus Connect** platform. This stage introduced brand identity, color theory, and advanced UI components.
 
