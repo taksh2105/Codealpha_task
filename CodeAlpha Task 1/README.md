@@ -20,7 +20,7 @@ The objective of this task was to design a **Low-Fidelity Wireframe** for an e-c
 **Easy Cart** aims to provide a seamless, intuitive, and frictionless shopping experience for users, focusing on clean navigation and a straightforward checkout pipeline.
 
 
-## 🔗 Figma Design Links
+### 🔗 Figma Design Links
 
 You can view the live design workspace, interactive layouts, and structure directly on Figma:
 
@@ -28,7 +28,7 @@ You can view the live design workspace, interactive layouts, and structure direc
 * 📸 Screenshots & Video: Please check the files in this folder for high-resolution static screenshots and video walkthroughs of the wireframe layouts
 
 
-## 🎯 Objectives Achieved
+### 🎯 Objectives Achieved
 
 * **Foundational Wireframe Design:** Designed and mapped out foundational layouts for the core 7-screen e-commerce journey:
   * **Welcome Page:** Structuring a clean initial entry point to introduce the "Easy Cart" brand.
@@ -43,7 +43,7 @@ You can view the live design workspace, interactive layouts, and structure direc
 
 ---
 
-##  About the Internship
+###  About the Internship
 * **Company:** CodeAlpha
 * **Domain:** UI/UX Design
 * **Intern:** Taksh Patel
