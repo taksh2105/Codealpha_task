@@ -22,7 +22,7 @@ Following the structural foundation laid in Task 1, the objective of Task 2 was 
 * 📸 **Screenshots & Video:** Please check the files in this folder for full-color UI screenshots and a video overview of the polished interfaces.
 ---
 
-🚀 About the Internship
+### 🚀 About the Internship
 * **Company:** CodeAlpha
 * **Domain:** UI/UX Design
 * **Intern:** Taksh Patel
