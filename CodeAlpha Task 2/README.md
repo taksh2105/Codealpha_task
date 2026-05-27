@@ -1,4 +1,4 @@
-
+🎨 Task 2: High-Fidelity UI Design
 ### 📌 Project Overview
 Following the structural foundation laid in Task 1, the objective of Task 2 was to convert the low-fidelity wireframes into polished, high-fidelity UI designs for the **Campus Connect** platform. This stage introduced brand identity, color theory, and advanced UI components.
 
